@@ -36,7 +36,7 @@ Currently, I'm involved in multiple tech-related projects that allow me to push 
 ### 📫 Let's Connect!
 
 - **Email**: mibrahim@mimmatech.com
-- **LinkedIn**: [linkedin.com/in/yourname](https://linkedin.com/in/mohammed-ali-9aa3b5b1/)
+- **LinkedIn**: https://linkedin.com/in/mohammed-ali-9aa3b5b1/
 
 ---
 
